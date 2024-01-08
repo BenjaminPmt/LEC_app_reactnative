@@ -1,0 +1,77 @@
+export const colors = {
+    COLOR_PRIMARY : '#202020',
+    COLOR_GREEN : "#01e5bf",
+    COLOR_WHITE : '#fff',
+}
+export const teams = [
+    {
+        id : 1,
+        name : "G2",
+        image : require("./assets/img/G2.png"),
+        victoire : 4,
+        defaite : 3,
+    },
+    {
+        id : 2,
+        name : "Karmine Corp",
+        image : require("./assets/img/KCORP.png"),
+        victoire : 4,
+        defaite : 3,
+    },
+    {
+        id : 3,
+        name : "BDS",
+        image : require("./assets/img/BDS.webp"),
+        victoire : 3,
+        defaite : 4,
+    },
+    {
+        id : 4,
+        name : "FNATIC",
+        image : require("./assets/img/FNATIC.png"),
+        victoire : 3,
+        defaite : 4,
+    },
+    {
+        id : 5,
+        name : "HERETICS",
+        image : require("./assets/img/HERETICS.png"),
+        victoire : 2,
+        defaite : 5,
+    },
+    {
+        id : 6,
+        name : "GIANTX",
+        image : require("./assets/img/GIANTX.png"),
+        victoire : 2,
+        defaite : 5,
+    },
+    {
+        id : 7,
+        name : "Mad Lions",
+        image : require("./assets/img/MADLIONS.png"),
+        victoire : 1,
+        defaite : 6,
+    },
+    {
+        id : 8,
+        name : "Rogue",
+        image : require("./assets/img/ROGUE.png"),
+        victoire : 1,
+        defaite : 6,
+    },
+    {
+        id : 9,
+        name : "SK Gaming",
+        image : require("./assets/img/SKGAMING.png"),
+        victoire : 1,
+        defaite : 6,
+    },
+    {
+        id : 10,
+        name : "Vitality",
+        image : require("./assets/img/VITALITY.png"),
+        victoire : 1,
+        defaite : 6,
+    },
+]
